@@ -1,0 +1,18 @@
+{
+  "name": "Unlovable Villainess — Vilã Detestável",
+  "short_name": "Villainess",
+  "description": "Solo play journal for Reincarnated as the Unlovable Villainess: dice, counters and diary, working offline. English / Português.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#17101c",
+  "theme_color": "#17101c",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
